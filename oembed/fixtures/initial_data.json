@@ -28,7 +28,7 @@
              "regex": "http:\/\/\\S*?revision3.com\/\\S*"},
   "model": "oembed.providerrule",
   "pk": 5},
- {"fields": {"endpoint": "http:\/\/oohembed.com\/oohembed\/",
+ {"fields": {"endpoint": "http:\/\/api.embed.ly\/v1\/api\/oembed",
              "format": 1,
              "name": "CollegeHumor Video (Embedly)",
              "regex": "http:\/\/\\S*.collegehumor.com\/video:\\S*"},
